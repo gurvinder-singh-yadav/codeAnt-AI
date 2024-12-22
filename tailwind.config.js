@@ -11,6 +11,9 @@ export default {
       },
       fontSize:{
         xxs: "0.5rem"
+      },
+      width: {
+        '3/8': '37.5%'
       }
     },
   },
